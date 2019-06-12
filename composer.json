@@ -11,8 +11,7 @@
     ],  
     "require": {  
         "Brotzka/laravel-dotenv-editor": "dev-master"  
-    }  
-    /
+    },
     "license": "MIT",
     "authors": [
         {
