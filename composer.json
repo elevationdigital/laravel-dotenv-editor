@@ -3,6 +3,16 @@
     "description": "A package for editing the .env file in your Laravel root.",
     "keywords": ["laravel", "dotenv", "dotenv-editor"],
     "type": "library",
+    "repositories": [  
+        {  
+            "type": "vcs",  
+            "url": "https://github.com/elevationdigital/laravel-dotenv-editor"  
+        }  
+    ],  
+    "require": {  
+        "Brotzka/laravel-dotenv-editor": "dev-master"  
+    }  
+    /
     "license": "MIT",
     "authors": [
         {
